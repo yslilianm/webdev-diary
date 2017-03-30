@@ -1,9 +1,3 @@
-Content-Transfer-Encoding: quoted-printable
-Content-Type: text/html;
-	charset=big5
-Message-Id: <8592FF72-78B3-4340-B84C-1B4471DC7700>
-Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
-
 <html>
 
 <head>
