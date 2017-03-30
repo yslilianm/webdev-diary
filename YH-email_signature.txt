@@ -1,0 +1,44 @@
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=big5
+Message-Id: <8592FF72-78B3-4340-B84C-1B4471DC7700>
+Mime-Version: 1.0 (Mac OS X Mail 8.2 \(2104\))
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+<table cellspacing=“10” cellpadding=“0” border="0">
+<tbody>
+
+<div valign="top" style="padding-left: 1px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;">
+<span style="text-align: left; color: #000000; font-family: 'Kalam', sans-serif; font-size: 14pt;">Yi-Hsuan Lin</span><br>
+</div>
+
+<div valign="top" style="padding-left: 1px; padding-top: 0px; padding-bottom: 3px; padding-right: 0px;margin-top: 0px;">
+<span style="text-align: left; margin-top: 0px; margin-bottom: 0px; color: #000000; font-family: 'Lato', sans-serif; font-weight: normal; font-size: 9pt;">Designer - Exploring playful learning
+</span><br>
+</div>
+
+<table>
+<tr class="link">
+<td valign="top" style="padding-left: 2px; padding-top: 0px; padding-bottom: 5px; padding-right: 10px;">
+<span style="text-align: left; margin-top: 0px; color: #181818; font-size: 9pt; font-weight: bold; font-family: 'Lato', sans-serif;">
+<a style="text-decoration: none; color: #181818" href="http://yi-hsuan.webflow.io/"><font color="black"><u>http://yi-hsuan.webflow.io/</u></font></a>
+</span>
+</td>
+</tr>
+
+<tr>
+<td>
+<a class="icon" href="http://linkedin.com/in/yi-hsuan-lin"><img src="http://imgh.us/Linkedin_transparent.png" nosend="1" border="0" width="28" height="28" alt="Linkedin"></a>
+<a class="resume" href="http://docdro.id/FlDsPd5"><img src="http://imgh.us/resume_transparent.png" nosend="1" border="0" width="28” height="28” alt=“Resume”></a>
+</td>
+</tr>
+</table>
+</body>
+
+</html>
